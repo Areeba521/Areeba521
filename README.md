@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Areeba
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Java
+- 👀 I’m a coder
+- 🌱 I code in Java and Python
 - 💞️ I’m looking to collaborate on java programs and coding problems.
-- 📫 How to reach me gitHub
+- 📫 You can find my data analysis projects in my repositories
 
 
 <!---
